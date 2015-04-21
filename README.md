@@ -1,5 +1,8 @@
 # CakePHP Store
 
+'master'  branch is original system. 
+'es'      branch, is the Spanish translation of the original system.
+
 ## Installation
 
 - Download CakePHP VERSION 2.x
